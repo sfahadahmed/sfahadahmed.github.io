@@ -1,0 +1,10 @@
+node_modules
+assets
+scss
+.git
+.travis.yml
+gulpfile.js
+LICENSE
+package-lock.json
+package.json
+README.md
